@@ -4,3 +4,4 @@ One day, a few hunters came into the forest and took the lion with them. They ti
 
 Moral of the Story
 A small act of kindness can go a long way.
+Vsc is the best platform for coding.
